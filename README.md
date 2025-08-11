@@ -14,7 +14,7 @@ O objetivo deste repositório é consolidar conhecimentos práticos através de 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | `Teste_Memoria/` | Análise de velocidade de processamento e uso de memória com Pandas, Polars e DuckDB comparando performance | `Pandas`, `Polars`, `DuckDB`, `Matplotlib` |
-| `Teste_RFV/` | Análise de velocidade de processamento e uso de memória com Pandas, Polars e DuckDB comparando performance | `Pandas`|
+| `Teste_RFV/` | Análise de Negócio e estudo de retenção de clientes com foco na metodologia RFV, voltada a startups | `Pandas`|
 
 ---
 
